@@ -47,6 +47,6 @@ app.post('/jsondata',(req,res)=>{
  
 let port=4000
 app.listen(port,()=>{
-    console.log("the current surver running on",port)
+    console.log("the current server running on",port)
 })
 
